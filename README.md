@@ -7,8 +7,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Competition-yellow)](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Live Demo:** [House Price Predictor](https://your-house-price-app.streamlit.app/)  
-_(Replace with your actual deployed link – Streamlit Cloud / HuggingFace Spaces / Render)_
+**Live Demo:** [House Price Predictor](https://house-rate-prediction-evbbzmsw7f4vn8yauyfgxu.streamlit.app/)  
 
 An end-to-end **regression** Machine Learning project to predict residential house sale prices using the famous **Kaggle House Prices: Advanced Regression Techniques** dataset (79 explanatory variables, 1460 training samples).  
 Built with **scikit-learn + XGBoost** for modeling and **Streamlit** for a clean, interactive web interface.
@@ -138,11 +137,6 @@ house-prices-prediction/
 
 ![Example output](assets/result_screenshot.png)
 
-### Feature Importance Chart
-
-_(Add feature importance chart if available)_
-
-<!-- ![XGBoost top features](assets/feature_importance.png) -->
 
 ## Skills Demonstrated
 
